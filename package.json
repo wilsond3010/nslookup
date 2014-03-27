@@ -1,0 +1,7 @@
+{
+  "name": "network-utility",
+  "version": "0.0.1",
+  "dependencies": {
+    "portscanner": "~0.2.2"
+  }
+}
